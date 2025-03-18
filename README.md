@@ -1,12 +1,16 @@
 # amigo_secreto_one
 
+🎉 Amigo Secreto
+
+
+
 🖋️ Descrição do Projeto
 Este projeto é uma aplicação web para organizar sorteios de amigo secreto, utilizando uma interface amigável para adicionar participantes e realizar o sorteio de forma aleatória. Ele é ideal para festas, confraternizações e eventos familiares, tornando a organização rápida e divertida.
 
-Status do Projeto
+🚀 Status do Projeto
 ✅ Finalizado A aplicação está completa e funcional. Futuras melhorias e novas funcionalidades podem ser adicionadas conforme necessário.
 
-Funcionalidades e Demonstração da Aplicação
+✨ Funcionalidades e Demonstração da Aplicação
 Funcionalidades:
 Adicionar Participantes: Permite inserir os nomes dos amigos que participarão do sorteio.
 
@@ -27,12 +31,14 @@ Clique no botão "Sortear amigo" para realizar o sorteio.
 
 Veja o resultado exibido imediatamente na tela.
 
-Acesso ao Projeto
+📂 Acesso ao Projeto
 Repositório:
 Você pode acessar o código-fonte completo no GitHub: Amigo Secreto - Repositório
-git clone https://github.com/leonardofrey91/amigo_secreto_one.git
 
-Tecnologias Utilizadas
+Para clonar o projeto:
+bash
+git clone https://github.com/leonardofrey91/amigo_secreto_one.git
+🛠️ Tecnologias Utilizadas
 HTML: Estrutura do layout da aplicação.
 
 CSS: Estilização da interface para torná-la amigável e visualmente atraente.
@@ -41,12 +47,15 @@ JavaScript: Implementação da lógica de sorteio, validação de entradas e man
 
 Git/GitHub: Controle de versão e hospedagem do projeto.
 
+🤝 Pessoas Contribuidoras
+Agradecimentos a todas as pessoas que contribuíram para a evolução do projeto.
+
 🧑‍💻 Pessoas Desenvolvedoras do Projeto
 Leonardo Frey
 
 GitHub: leonardofrey91
 
-Email: leonardoferreirarey@gmail.com
+Email: leonardo@exemplo.com
 
 📜 Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo como preferir.
